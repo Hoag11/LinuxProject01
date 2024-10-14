@@ -21,6 +21,7 @@ lỗi: vẫn xuất hiện 1 vài thông tin không đúng, chưa tìm ra cách 
 - Tính tỷ suất lợi nhuận của 10 phim có lợi nhhuận cao nhất
 - Tìm tháng có số lượng phim ra mắt nhiều nhất
 - Top 10 film có độ phủ sóng cao nhất
+
 Tai lieu tham khao: 
 https://csvkit.readthedocs.io/en/latest/
 https://www.geeksforgeeks.org/how-to-use-regular-expressions-regex-on-linux/
