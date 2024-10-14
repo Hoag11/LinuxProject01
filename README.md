@@ -6,7 +6,8 @@
 3. Tìm ra phim nào có doanh thu cao nhất và doanh thu thấp nhất![image](https://github.com/user-attachments/assets/a9820f60-d3fe-47e4-8ee6-558108605cc8)
 
 4. Tính tổng doanh thu tất cả các bộ phim
-5. Top 10 bộ phim đem về lợi nhuận cao nhất
+5. Top 10 bộ phim đem về lợi nhuận cao nhất![image](https://github.com/user-attachments/assets/02685bbd-6112-4173-882e-9064b8a1d1c4)
+
 6. Đạo diễn nào có nhiều bộ phim nhất và diễn viên nào đóng nhiều phim nhất
 7. Thống kê số lượng phim theo các thể loại. Ví dụ có bao nhiêu phim thuộc thể loại Action, bao nhiêu thuộc thể loại Family, ….
 8. Idea của bạn để có thêm những phân tích cho dữ liệu?
