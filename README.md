@@ -9,7 +9,9 @@
 
 5. Top 10 bộ phim đem về lợi nhuận cao nhất![image](https://github.com/user-attachments/assets/02685bbd-6112-4173-882e-9064b8a1d1c4)
 
-6. Đạo diễn nào có nhiều bộ phim nhất và diễn viên nào đóng nhiều phim nhất
+6. Đạo diễn nào có nhiều bộ phim nhất và diễn viên nào đóng nhiều phim nhất ![image](https://github.com/user-attachments/assets/6b321560-a3f3-4021-a1f3-abe1523ee606)![image](https://github.com/user-attachments/assets/8c28633c-0281-4803-ac80-3da8220d87c1)
+
+
 7. Thống kê số lượng phim theo các thể loại. Ví dụ có bao nhiêu phim thuộc thể loại Action, bao nhiêu thuộc thể loại Family, ….
 8. Idea của bạn để có thêm những phân tích cho dữ liệu?
 
