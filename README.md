@@ -7,7 +7,8 @@
 
 4. Tính tổng doanh thu tất cả các bộ phim![image](https://github.com/user-attachments/assets/be7c53ad-1a2e-4b9d-978a-4b3e2f694f75)
 
-5. Top 10 bộ phim đem về lợi nhuận cao nhất![image](https://github.com/user-attachments/assets/02685bbd-6112-4173-882e-9064b8a1d1c4)
+5. Top 10 bộ phim đem về lợi nhuận cao nhất![image](https://github.com/user-attachments/assets/63bdb813-9d2a-4576-9087-cdf1659b914d)
+
 
 6. Đạo diễn nào có nhiều bộ phim nhất và diễn viên nào đóng nhiều phim nhất![image](https://github.com/user-attachments/assets/840a88dd-e6a7-47ed-bd77-fec93f479a4a)
 ![image](https://github.com/user-attachments/assets/8c28633c-0281-4803-ac80-3da8220d87c1)
