@@ -27,3 +27,4 @@ https://csvkit.readthedocs.io/en/latest/
 https://www.geeksforgeeks.org/how-to-use-regular-expressions-regex-on-linux/
 https://www.reddit.com/r/linux4noobs/comments/1bkh84o/finding_max_values_using_unix_commands_on_some/
 https://csvkit.readthedocs.io/en/latest/
+https://www.baeldung.com/linux/add-column-of-numbers
