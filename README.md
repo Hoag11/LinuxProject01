@@ -14,9 +14,13 @@
 ![image](https://github.com/user-attachments/assets/8c28633c-0281-4803-ac80-3da8220d87c1)
 
 
-7. Thống kê số lượng phim theo các thể loại. Ví dụ có bao nhiêu phim thuộc thể loại Action, bao nhiêu thuộc thể loại Family, ….
+7. Thống kê số lượng phim theo các thể loại. Ví dụ có bao nhiêu phim thuộc thể loại Action, bao nhiêu thuộc thể loại Family, ….![image](https://github.com/user-attachments/assets/1c023b56-a99a-4625-ab00-17ba211a6680) 
+lỗi: vẫn xuất hiện 1 vài thông tin không đúng, chưa tìm ra cách sửa đổi.
 8. Idea của bạn để có thêm những phân tích cho dữ liệu?
-
+- Tìm phim có doanh thu cao nhất của mỗi thể loại
+- Tính tỷ suất lợi nhuận của 10 phim có lợi nhhuận cao nhất
+- Tìm tháng có số lượng phim ra mắt nhiều nhất
+- Top 10 film có độ phủ sóng cao nhất
 Tai lieu tham khao: 
 https://csvkit.readthedocs.io/en/latest/
 https://www.geeksforgeeks.org/how-to-use-regular-expressions-regex-on-linux/
